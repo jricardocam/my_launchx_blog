@@ -19,5 +19,16 @@ Para mi la cultura de un profesional del software se basa en lo siguiente:
 -Tolerancia -Disciplina</description>
     </item>
     
+    <item>
+      <title>Mi ruta de aprendizaje Launch-X</title>
+      <link>https://jricardocam.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jricardocam.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola✌! Innovaccion ha creado un excelente programa de viaje para todos los explorers, en el cual nos han compartido mucho conocimiento y nos han llevado de la mano para adquirir el conocimiento de la mejor manera. Hemos aprendido:
+-Python ⌨ -Lógica de Programación 🤓 -Jupyter Notebooks 📃 -HTML -CSS -JS -Node JS -Git -GitHub
+Muchas Gracias por leer. Gracias Innovaccion!</description>
+    </item>
+    
   </channel>
 </rss>
